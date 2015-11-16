@@ -1,0 +1,9 @@
+c:\users\apotoxin\documents\visual studio 2015\Projects\HighLow\HighLow\bin\Debug\HighLow.exe.config
+c:\users\apotoxin\documents\visual studio 2015\Projects\HighLow\HighLow\bin\Debug\HighLow.exe
+c:\users\apotoxin\documents\visual studio 2015\Projects\HighLow\HighLow\bin\Debug\HighLow.pdb
+c:\users\apotoxin\documents\visual studio 2015\Projects\HighLow\HighLow\obj\Debug\HighLow.csprojResolveAssemblyReference.cache
+c:\users\apotoxin\documents\visual studio 2015\Projects\HighLow\HighLow\obj\Debug\HighLow.exe
+c:\users\apotoxin\documents\visual studio 2015\Projects\HighLow\HighLow\obj\Debug\HighLow.pdb
+C:\Users\Apotoxin\Source\Repos\OOP_week9\HighLow\HighLow\bin\Debug\HighLow.exe.config
+C:\Users\Apotoxin\Source\Repos\OOP_week9\HighLow\HighLow\obj\Debug\HighLow.exe
+C:\Users\Apotoxin\Source\Repos\OOP_week9\HighLow\HighLow\obj\Debug\HighLow.pdb
